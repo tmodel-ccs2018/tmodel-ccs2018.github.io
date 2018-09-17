@@ -1,0 +1,54 @@
+{
+    "stream_model": {
+        "emission_probability": {
+            "s0Active": {
+                "$": [
+                    1.0, 
+                    0.0, 
+                    0.0, 
+                    7.27039315908073e-06
+                ]
+            }, 
+            "s1Dwell": {
+                "$": [
+                    1.0, 
+                    13.271482086828778, 
+                    5.813067575733739, 
+                    0.0
+                ]
+            }, 
+            "s2End": {
+                "F": [
+                    1.0
+                ]
+            }
+        }, 
+        "observation_space": [
+            "$", 
+            "F"
+        ], 
+        "start_probability": {
+            "s0Active": 0.9305371007437826, 
+            "s1Dwell": 0.06946289925621744, 
+            "s2End": 0.0
+        }, 
+        "state_space": [
+            "s0Active", 
+            "s1Dwell", 
+            "s2End"
+        ], 
+        "transition_probability": {
+            "s0Active": {
+                "s0Active": 0.6557198876985972, 
+                "s1Dwell": 0.30178011230140284, 
+                "s2End": 0.04250000000000001
+            }, 
+            "s1Dwell": {
+                "s0Active": 0.15644858387246394, 
+                "s1Dwell": 0.5920167221648732, 
+                "s2End": 0.25153469396266287
+            }, 
+            "s2End": {}
+        }
+    }
+}

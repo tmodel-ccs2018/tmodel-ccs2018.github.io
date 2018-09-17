@@ -1,0 +1,185 @@
+{
+    "ExitCircuitOtherPortStreamHistogram": {
+        "bins": [
+            [
+                1.0, 
+                3.0, 
+                554723
+            ], 
+            [
+                3.0, 
+                7.0, 
+                231733
+            ], 
+            [
+                7.0, 
+                15.0, 
+                97456
+            ], 
+            [
+                15.0, 
+                31.0, 
+                28272
+            ], 
+            [
+                31.0, 
+                63.0, 
+                3574
+            ], 
+            [
+                63.0, 
+                Infinity, 
+                4449
+            ]
+        ], 
+        "epsilon": 0.5121370382161261, 
+        "estimated_value": 685884.0, 
+        "expected_noise_ratio": 0.005194578213279505, 
+        "sensitivity": 288.0, 
+        "sigma": 2057.0286204467
+    }, 
+    "ExitOtherPortCircuitCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                943503
+            ]
+        ], 
+        "epsilon": 0.25361824697980906, 
+        "estimated_value": 685884.0, 
+        "expected_noise_ratio": 0.005194578213279505, 
+        "sensitivity": 144.0, 
+        "sigma": 2057.0286204467
+    }, 
+    "ExitOtherPortStreamByteHistogram": {
+        "bins": [
+            [
+                1.0, 
+                2048.0, 
+                3044530
+            ], 
+            [
+                2048.0, 
+                16384.0, 
+                697599
+            ], 
+            [
+                16384.0, 
+                65536.0, 
+                268099
+            ], 
+            [
+                65536.0, 
+                131072.0, 
+                58218
+            ], 
+            [
+                131072.0, 
+                Infinity, 
+                170370
+            ]
+        ], 
+        "epsilon": 0.06692446212045816, 
+        "estimated_value": 2867557.0, 
+        "expected_noise_ratio": 0.005194578213279507, 
+        "sensitivity": 160.0, 
+        "sigma": 8600.0647627912
+    }, 
+    "ExitOtherPortStreamCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                4229764
+            ]
+        ], 
+        "epsilon": 0.033418965081255386, 
+        "estimated_value": 2867557.0, 
+        "expected_noise_ratio": 0.005194578213279507, 
+        "sensitivity": 80.0, 
+        "sigma": 8600.0647627912
+    }, 
+    "ExitOtherPortStreamInboundByteHistogram": {
+        "bins": [
+            [
+                1.0, 
+                2048.0, 
+                2292487
+            ], 
+            [
+                2048.0, 
+                16384.0, 
+                515174
+            ], 
+            [
+                16384.0, 
+                65536.0, 
+                119570
+            ], 
+            [
+                65536.0, 
+                131072.0, 
+                26738
+            ], 
+            [
+                131072.0, 
+                Infinity, 
+                156145
+            ]
+        ], 
+        "epsilon": 0.06692446212045816, 
+        "estimated_value": 2867557.0, 
+        "expected_noise_ratio": 0.005194578213279507, 
+        "sensitivity": 160.0, 
+        "sigma": 8600.0647627912
+    }, 
+    "ExitOtherPortStreamOutboundByteHistogram": {
+        "bins": [
+            [
+                1.0, 
+                512.0, 
+                2795679
+            ], 
+            [
+                512.0, 
+                1024.0, 
+                747355
+            ], 
+            [
+                1024.0, 
+                2048.0, 
+                244445
+            ], 
+            [
+                2048.0, 
+                4096.0, 
+                59270
+            ], 
+            [
+                4096.0, 
+                Infinity, 
+                289468
+            ]
+        ], 
+        "epsilon": 0.06692446212045816, 
+        "estimated_value": 2867557.0, 
+        "expected_noise_ratio": 0.005194578213279507, 
+        "sensitivity": 160.0, 
+        "sigma": 8600.0647627912
+    }, 
+    "ZeroCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                0
+            ]
+        ], 
+        "epsilon": 0.0, 
+        "estimated_value": 0.0, 
+        "expected_noise_ratio": 0.0, 
+        "sensitivity": 0.0, 
+        "sigma": 0.0
+    }
+}

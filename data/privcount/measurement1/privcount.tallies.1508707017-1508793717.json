@@ -1,0 +1,310 @@
+{
+    "EntryActiveCircuitCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                41447214
+            ]
+        ], 
+        "epsilon": 0.00460556793057282, 
+        "estimated_value": 1699756.0, 
+        "expected_noise_ratio": 0.12435187467172015, 
+        "sensitivity": 144.0, 
+        "sigma": 122033.28225756972
+    }, 
+    "EntryActiveClientIPCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                1436887
+            ]
+        ], 
+        "epsilon": 0.0389780585678392, 
+        "estimated_value": 201066.0, 
+        "expected_noise_ratio": 0.12435187467172015, 
+        "sensitivity": 144.0, 
+        "sigma": 14435.450694335254
+    }, 
+    "EntryClientIPCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                2017844
+            ]
+        ], 
+        "epsilon": 0.02637500532860871, 
+        "estimated_value": 297021.0, 
+        "expected_noise_ratio": 0.12435187467172015, 
+        "sensitivity": 144.0, 
+        "sigma": 21324.500416192448
+    }, 
+    "EntryInactiveCircuitCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                56372058
+            ]
+        ], 
+        "epsilon": 0.006304856591186509, 
+        "estimated_value": 1241706.0, 
+        "expected_noise_ratio": 0.12435187467172014, 
+        "sensitivity": 144.0, 
+        "sigma": 89147.77107944779
+    }, 
+    "EntryInactiveClientIPCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                488947
+            ]
+        ], 
+        "epsilon": 0.07325258696793628, 
+        "estimated_value": 107108.0, 
+        "expected_noise_ratio": 0.12435187467172015, 
+        "sensitivity": 144.0, 
+        "sigma": 7689.774765345012
+    }, 
+    "ExitActiveCircuitCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                1280979
+            ]
+        ], 
+        "epsilon": 0.00460556793057282, 
+        "estimated_value": 1699756.0, 
+        "expected_noise_ratio": 0.12435187467172015, 
+        "sensitivity": 144.0, 
+        "sigma": 122033.28225756972
+    }, 
+    "ExitInactiveCircuitCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                1374670
+            ]
+        ], 
+        "epsilon": 0.006304856591186509, 
+        "estimated_value": 1241706.0, 
+        "expected_noise_ratio": 0.12435187467172014, 
+        "sensitivity": 144.0, 
+        "sigma": 89147.77107944779
+    }, 
+    "ExitP2PCircuitCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                -12019
+            ]
+        ], 
+        "epsilon": 0.013711887160911464, 
+        "estimated_value": 571087.0, 
+        "expected_noise_ratio": 0.12435187467172014, 
+        "sensitivity": 144.0, 
+        "sigma": 41000.956057592215
+    }, 
+    "ExitP2PStreamByteCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                1972902
+            ]
+        ], 
+        "epsilon": 0.005952678340153181, 
+        "estimated_value": 93522051.0, 
+        "expected_noise_ratio": 0.12435187467172015, 
+        "sensitivity": 10240.0, 
+        "sigma": 6714377.150008489
+    }, 
+    "ExitP2PStreamCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                -86599
+            ]
+        ], 
+        "epsilon": 0.004502117972751584, 
+        "estimated_value": 966004.0, 
+        "expected_noise_ratio": 0.12435187467172015, 
+        "sensitivity": 80.0, 
+        "sigma": 69353.85949156313
+    }, 
+    "ExitP2PStreamInboundByteCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                1957793
+            ]
+        ], 
+        "epsilon": 0.011907682566440425, 
+        "estimated_value": 46761025.5, 
+        "expected_noise_ratio": 0.12435187467172015, 
+        "sensitivity": 10240.0, 
+        "sigma": 3357188.5750042447
+    }, 
+    "ExitP2PStreamOutboundByteCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                -1317762
+            ]
+        ], 
+        "epsilon": 0.011907682566440425, 
+        "estimated_value": 46761025.5, 
+        "expected_noise_ratio": 0.12435187467172015, 
+        "sensitivity": 10240.0, 
+        "sigma": 3357188.5750042447
+    }, 
+    "ExitStreamByteCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                1404167661915
+            ]
+        ], 
+        "epsilon": 0.00025215605811169505, 
+        "estimated_value": 2207373238.0, 
+        "expected_noise_ratio": 0.12435187467172017, 
+        "sensitivity": 10240.0, 
+        "sigma": 158477452.88186046
+    }, 
+    "ExitStreamCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                9102859
+            ]
+        ], 
+        "epsilon": 0.02806438647752236, 
+        "estimated_value": 58157663.0, 
+        "expected_noise_ratio": 0.12435187467172015, 
+        "sensitivity": 30000.0, 
+        "sigma": 4175405.472502888
+    }, 
+    "ExitStreamInboundByteCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                1360888926405
+            ]
+        ], 
+        "epsilon": 0.0002801736556228726, 
+        "estimated_value": 1986635914.2, 
+        "expected_noise_ratio": 0.12435187467172015, 
+        "sensitivity": 10240.0, 
+        "sigma": 142629707.59367442
+    }, 
+    "ExitStreamOutboundByteCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                43172843290
+            ]
+        ], 
+        "epsilon": 0.0025217484597831563, 
+        "estimated_value": 220737323.8, 
+        "expected_noise_ratio": 0.12435187467172015, 
+        "sensitivity": 10240.0, 
+        "sigma": 15847745.288186047
+    }, 
+    "ExitWebCircuitCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                1008831
+            ]
+        ], 
+        "epsilon": 0.005529895592834992, 
+        "estimated_value": 1415683.0, 
+        "expected_noise_ratio": 0.12435187467172014, 
+        "sensitivity": 144.0, 
+        "sigma": 101638.3781708922
+    }, 
+    "ExitWebStreamByteCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                1182999906379
+            ]
+        ], 
+        "epsilon": 0.00023241042732531446, 
+        "estimated_value": 2394910504.0, 
+        "expected_noise_ratio": 0.12435187467172015, 
+        "sensitivity": 10240.0, 
+        "sigma": 171941613.6882297
+    }, 
+    "ExitWebStreamCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                19073295
+            ]
+        ], 
+        "epsilon": 0.052128152095144764, 
+        "estimated_value": 31335162.0, 
+        "expected_noise_ratio": 0.12435187467172017, 
+        "sensitivity": 30000.0, 
+        "sigma": 2249695.055603671
+    }, 
+    "ExitWebStreamInboundByteCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                1154637746239
+            ]
+        ], 
+        "epsilon": 0.00025823402707819356, 
+        "estimated_value": 2155419453.6, 
+        "expected_noise_ratio": 0.12435187467172015, 
+        "sensitivity": 10240.0, 
+        "sigma": 154747452.31940672
+    }, 
+    "ExitWebStreamOutboundByteCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                28519768929
+            ]
+        ], 
+        "epsilon": 0.002324263879701434, 
+        "estimated_value": 239491050.4, 
+        "expected_noise_ratio": 0.12435187467172015, 
+        "sensitivity": 10240.0, 
+        "sigma": 17194161.36882297
+    }, 
+    "ZeroCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                0
+            ]
+        ], 
+        "epsilon": 0.0, 
+        "estimated_value": 0.0, 
+        "expected_noise_ratio": 0.0, 
+        "sensitivity": 0.0, 
+        "sigma": 0.0
+    }
+}

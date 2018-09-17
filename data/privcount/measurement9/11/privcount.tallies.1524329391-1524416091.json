@@ -1,0 +1,142 @@
+{
+    "ExitCircuitTrafficModelDelayTime_s0Active_$": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                55605578560097
+            ]
+        ]
+    }, 
+    "ExitCircuitTrafficModelEmissionCount_s0Active_$": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                10639199
+            ]
+        ]
+    }, 
+    "ExitCircuitTrafficModelEmissionCount_s1Dwell_$": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                16646578
+            ]
+        ]
+    }, 
+    "ExitCircuitTrafficModelEmissionCount_s2End_F": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -734333
+            ]
+        ]
+    }, 
+    "ExitCircuitTrafficModelLogDelayTime_s1Dwell_$": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                184231531
+            ]
+        ]
+    }, 
+    "ExitCircuitTrafficModelSquaredLogDelayTime_s1Dwell_$": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                2462406374
+            ]
+        ]
+    }, 
+    "ExitCircuitTrafficModelTransitionCount_START_s0Active": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                56951
+            ]
+        ]
+    }, 
+    "ExitCircuitTrafficModelTransitionCount_START_s1Dwell": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                3144809
+            ]
+        ]
+    }, 
+    "ExitCircuitTrafficModelTransitionCount_s0Active_s0Active": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                10583342
+            ]
+        ]
+    }, 
+    "ExitCircuitTrafficModelTransitionCount_s0Active_s1Dwell": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                3495879
+            ]
+        ]
+    }, 
+    "ExitCircuitTrafficModelTransitionCount_s0Active_s2End": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                3621896
+            ]
+        ]
+    }, 
+    "ExitCircuitTrafficModelTransitionCount_s1Dwell_s0Active": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -80421
+            ]
+        ]
+    }, 
+    "ExitCircuitTrafficModelTransitionCount_s1Dwell_s1Dwell": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                16151991
+            ]
+        ]
+    }, 
+    "ExitCircuitTrafficModelTransitionCount_s1Dwell_s2End": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                3654957
+            ]
+        ]
+    }, 
+    "ZeroCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                0
+            ]
+        ], 
+        "epsilon": 0.0, 
+        "estimated_value": 0.0, 
+        "expected_noise_ratio": 0.0, 
+        "sensitivity": 0.0, 
+        "sigma": 0.0
+    }
+}

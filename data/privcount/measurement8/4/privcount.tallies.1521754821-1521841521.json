@@ -1,0 +1,2086 @@
+{
+    "ExitStreamTrafficModelEmissionCount_m0s0_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                544112
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m0s0_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                4912035
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m0s1_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                37245690
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m0s1_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -414876
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m0s2_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -57597
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m0s2_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1253638
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m0s3_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                94667
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m0s3_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                14505689
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m0s4_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -25760
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m0s4_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1657034
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m0s5_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                69626442
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m0s5_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                964408
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m0s6_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -374596
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m0s6_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1147151
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m0s7_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                4611
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m0s7_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                20435932
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m0sEnd_F": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                15516713
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m1s0_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                9662972
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m1s0_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                493802
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m1s1_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1261854
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m1s1_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                46015704
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m1s2_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -49347
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m1s2_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -109940
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m1s3_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                4226931
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m1s3_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                177168
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m1s4_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                32500975
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m1s4_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -249655
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m1s5_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -191637
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m1s5_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                383909529
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m1s6_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                8506557
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m1s6_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                194710967
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m1s7_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                4449513
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m1s7_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                177176008
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m1sEnd_F": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                11467962
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m2s0_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                39796
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m2s0_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                3857150943
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m2s1_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -144982
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m2s1_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                4828652354
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m2s2_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                273531379
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m2s2_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                17350
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m2s3_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                261649
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m2s3_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                4174894513
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m2s4_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                136709605
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m2s4_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                139808285
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m2s5_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                37002461
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m2s5_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                94300474
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m2s6_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                147613252
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m2s6_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                527556494
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m2s7_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                255834
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m2s7_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                396879
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelEmissionCount_m2sEnd_F": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                38555332
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m0s0_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -902576
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m0s0_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                10643819
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m0s1_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                362250080
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m0s1_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -461708
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m0s2_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -46084
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m0s2_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                2725382
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m0s3_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                3077732
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m0s3_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                154400327
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m0s4_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                257262
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m0s4_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                4858879
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m0s5_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                226613046
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m0s5_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                9696845
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m0s6_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -749930
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m0s6_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1853477
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m0s7_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -983316
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m0s7_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                179552648
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m1s0_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                119247277
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m1s0_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                5794412
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m1s1_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                11877244
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m1s1_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                546370207
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m1s2_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                727710
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m1s2_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -422277
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m1s3_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                8846362
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m1s3_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                2071559
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m1s4_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                391750050
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m1s4_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -1904422
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m1s5_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -101519
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m1s5_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                469055529
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m1s6_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                98937826
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m1s6_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1373612995
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m1s7_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                5580450
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m1s7_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                210812209
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m2s0_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -805164
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m2s0_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                4146198923
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m2s1_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1063991
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m2s1_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                7627069914
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m2s2_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                359957502
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m2s2_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                176703
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m2s3_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                37759
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m2s3_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                4590905750
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m2s4_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1208248202
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m2s4_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1340172484
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m2s5_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                436557183
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m2s5_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                117649191
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m2s6_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1274494621
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m2s6_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                4773450417
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m2s7_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                312157
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelLogDelayTime_m2s7_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -165608
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m0s0_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                6898991
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m0s0_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                44665357
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m0s1_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                4236260021
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m0s1_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                2996946
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m0s2_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1050326
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m0s2_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -11445
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m0s3_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                111977863
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m0s3_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                2090066747
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m0s4_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                557981
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m0s4_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                20546312
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m0s5_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1806041364
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m0s5_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                96843272
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m0s6_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                12895524
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m0s6_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                444650
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m0s7_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -756249
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m0s7_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                2335503696
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m1s0_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1557171593
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m1s0_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                43768111
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m1s1_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                121326091
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m1s1_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                6849981970
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m1s2_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1442176
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m1s2_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                2314807
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m1s3_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                12105295
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m1s3_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                4930479
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m1s4_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                4692772148
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m1s4_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1047587
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m1s5_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                2253359
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m1s5_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                657944805
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m1s6_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1132702119
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m1s6_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                11762334205
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m1s7_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                6640926
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m1s7_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                286163376
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m2s0_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1842796
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m2s0_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                5025050450
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m2s1_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -1140204
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m2s1_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                26330680827
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m2s2_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                732451375
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m2s2_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -5760452
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m2s3_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -1641382
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m2s3_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                5711318307
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m2s4_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                13301429762
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m2s4_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                16312178143
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m2s5_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                5162250616
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m2s5_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                184539859
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m2s6_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                14012798223
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m2s6_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                51923820873
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m2s7_+": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                4013929
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelSquaredLogDelayTime_m2s7_-": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1429084
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_START_m0s1": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                15072825
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_START_m0s3": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                3116
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_START_m1s0": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                3017192
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_START_m1s4": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                7351454
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_START_m1s7": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1141381
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_START_m2s5": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                6477751
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_START_m2s6": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                32203587
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s0_m0s0": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                2306639
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s0_m0s1": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -266511
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s0_m0s3": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                2333518
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s0_m0s4": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                342452
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s0_m0s5": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                399716
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s1_m0s1": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                10901656
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s1_m0s3": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                7926736
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s1_m0s5": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                271256
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s1_m0s7": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                17547878
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s2_m0s1": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                94834
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s2_m0s4": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1087945
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s3_m0s0": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -96168
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s3_m0s7": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                379787
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s3_m0sEnd": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                14719304
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s4_m0s6": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1224830
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s4_m0s7": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                161823
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s5_m0s0": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -325641
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s5_m0s1": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                506444
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s5_m0s5": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                69872761
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s6_m0s2": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                55400
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s6_m0s3": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                330018
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s6_m0s7": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                500422
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s7_m0s0": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                2103773
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s7_m0s1": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                11706908
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s7_m0s2": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                569863
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s7_m0s3": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                4800418
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s7_m0s4": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                559153
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m0s7_m0s7": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                435116
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s0_m1s0": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1072335
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s0_m1s3": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                3061447
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s0_m1sEnd": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                6073306
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s1_m1s0": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                5708252
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s1_m1s1": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                2167474
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s1_m1s4": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                18431371
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s1_m1s5": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                5613861
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s1_m1s6": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                5477981
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s1_m1s7": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                10711537
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s3_m1s4": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                4160769
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s3_m1s6": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                24541
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s3_m1s7": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                461998
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s4_m1s6": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                16427666
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s4_m1s7": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                16019294
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s5_m1s1": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                24675501
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s5_m1s5": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                206270980
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s5_m1s7": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                152794112
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s5_m1sEnd": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                522112
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s6_m1s0": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1083269
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s6_m1s1": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                21336676
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s6_m1s4": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                3723112
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s6_m1s5": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                171941672
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s6_m1sEnd": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                4885974
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s7_m1s3": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1723775
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m1s7_m1s6": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                180506450
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s0_m2s3": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                3782558053
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s0_m2s4": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                73312439
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s0_m2s7": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                273668
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s1_m2s1": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                4778743732
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s1_m2s5": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                49888738
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s2_m2s1": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                319189
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s2_m2s2": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                226667498
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s2_m2s6": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                46753266
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s3_m2s0": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                3857262945
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s3_m2s2": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                124435
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s3_m2s6": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                317052218
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s3_m2sEnd": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                1147402
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s4_m2s2": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                47472875
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s4_m2s5": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                74977522
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s4_m2s6": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                136979569
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s4_m2sEnd": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                18822371
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s5_m2s6": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                131617592
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s6_m2s1": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                49989421
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s6_m2s3": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                391654131
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s6_m2s4": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                203089180
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s6_m2s6": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                10503579
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s6_m2sEnd": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                19031807
+            ]
+        ]
+    }, 
+    "ExitStreamTrafficModelTransitionCount_m2s7_m2sEnd": {
+        "bins": [
+            [
+                0.0, 
+                Infinity, 
+                -58984
+            ]
+        ]
+    }, 
+    "ZeroCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                0
+            ]
+        ], 
+        "epsilon": 0.0, 
+        "estimated_value": 0.0, 
+        "expected_noise_ratio": 0.0, 
+        "sensitivity": 0.0, 
+        "sigma": 0.0
+    }
+}

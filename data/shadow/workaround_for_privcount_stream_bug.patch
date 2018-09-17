@@ -1,0 +1,54 @@
+diff --git a/src/plugin/shadow-plugin-tgen/shd-tgen-transfer.c b/src/plugin/shadow-plugin-tgen/shd-tgen-transfer.c
+index ae40feb..ac24e75 100644
+--- a/src/plugin/shadow-plugin-tgen/shd-tgen-transfer.c
++++ b/src/plugin/shadow-plugin-tgen/shd-tgen-transfer.c
+@@ -1582,6 +1582,37 @@ static TGenEvent _tgentransfer_runTransferEventLoop(TGenTransfer* transfer, TGen
+     return transfer->events;
+ }
+
++static gboolean _tgentransfer_delayCloseCB(gpointer data1, gpointer data2) {
++    /* do nothing but return TRUE to disarm the timer and deregister it
++     * from the io module, which in turn will unref and free the timer,
++     * which will unref and free the transfer object. */
++    return TRUE;
++}
++
++static void _tgentransfer_delayClose(TGenTransfer *transfer) {
++    TGEN_ASSERT(transfer);
++    g_assert(transfer->type == TGEN_TYPE_SCHEDULE);
++
++    guint64 threeSeconds = 3*1000*1000; // in microseconds
++
++    tgen_debug("created delay close timer for %"G_GUINT64_FORMAT" milliseconds", threeSeconds);
++
++    /* the close timer holds a pointer to the transfer object */
++    tgentransfer_ref(transfer);
++    /* the timer starts with one ref */
++    TGenTimer* closeTimer = tgentimer_new(threeSeconds, FALSE,
++            _tgentransfer_delayCloseCB,
++            transfer, NULL, (GDestroyNotify)tgentransfer_unref, NULL);
++
++    /* Tell the io module to watch the timer so we know when it expires.
++     * We give the reference to the io module, the timer will be
++     * unreffed when the timer is deregistered. */
++    tgenio_register(transfer->io,
++            tgentimer_getDescriptor(closeTimer),
++            (TGenIO_notifyEventFunc)tgentimer_onEvent, NULL,
++            closeTimer, (GDestroyNotify)tgentimer_unref);
++}
++
+ TGenEvent tgentransfer_onEvent(TGenTransfer* transfer, gint descriptor, TGenEvent events) {
+     TGEN_ASSERT(transfer);
+
+@@ -1605,6 +1636,11 @@ TGenEvent tgentransfer_onEvent(TGenTransfer* transfer, gint descriptor, TGenEven
+             _tgentransfer_schedTimerCancel(transfer);
+         }
+
++        /* XXX: hack for tmodel experiments: wait 3 seconds to close so the server closes first */
++        if(transfer->type == TGEN_TYPE_SCHEDULE && transfer->isCommander) {
++            _tgentransfer_delayClose(transfer);
++        }
++
+         if(transfer->notify) {
+             /* execute the callback to notify that we are complete */
+             gboolean wasSuccess = transfer->error == TGEN_XFER_ERR_NONE ? TRUE : FALSE;

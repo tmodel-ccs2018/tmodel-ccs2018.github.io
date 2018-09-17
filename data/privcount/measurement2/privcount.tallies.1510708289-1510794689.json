@@ -1,0 +1,102 @@
+{
+    "EntryActiveClientIPCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                1467784
+            ]
+        ], 
+        "epsilon": 0.08373674630261181, 
+        "estimated_value": 1436887.0, 
+        "expected_noise_ratio": 0.007240209512179807, 
+        "sensitivity": 144.0, 
+        "sigma": 6006.384385415209
+    }, 
+    "EntryClientIPActiveCircuitCount": {
+        "bins": [
+            [
+                1.0, 
+                2.0, 
+                595234
+            ], 
+            [
+                2.0, 
+                5.0, 
+                332154
+            ], 
+            [
+                5.0, 
+                15.0, 
+                130234
+            ], 
+            [
+                15.0, 
+                Infinity, 
+                252873
+            ]
+        ], 
+        "epsilon": 0.16804826875733525, 
+        "estimated_value": 1436887.0, 
+        "expected_noise_ratio": 0.007240209512179807, 
+        "sensitivity": 288.0, 
+        "sigma": 6006.384385415209
+    }, 
+    "EntryClientIPInactiveCircuitCount": {
+        "bins": [
+            [
+                1.0, 
+                2.0, 
+                420784
+            ], 
+            [
+                2.0, 
+                5.0, 
+                294627
+            ], 
+            [
+                5.0, 
+                15.0, 
+                145254
+            ], 
+            [
+                15.0, 
+                Infinity, 
+                195853
+            ]
+        ], 
+        "epsilon": 0.5003992962168509, 
+        "estimated_value": 488947.0, 
+        "expected_noise_ratio": 0.007240209512179807, 
+        "sensitivity": 288.0, 
+        "sigma": 2043.8654021475663
+    }, 
+    "EntryInactiveClientIPCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                519496
+            ]
+        ], 
+        "epsilon": 0.2477177131040278, 
+        "estimated_value": 488947.0, 
+        "expected_noise_ratio": 0.007240209512179807, 
+        "sensitivity": 144.0, 
+        "sigma": 2043.8654021475663
+    }, 
+    "ZeroCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                0
+            ]
+        ], 
+        "epsilon": 0.0, 
+        "estimated_value": 0.0, 
+        "expected_noise_ratio": 0.0, 
+        "sensitivity": 0.0, 
+        "sigma": 0.0
+    }
+}

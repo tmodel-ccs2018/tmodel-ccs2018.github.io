@@ -1,0 +1,241 @@
+{
+    "ExitActiveCircuitCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                5307766
+            ]
+        ], 
+        "epsilon": 0.021884711869646654, 
+        "estimated_value": 4368531.0, 
+        "expected_noise_ratio": 0.00970997584689092, 
+        "sensitivity": 144.0, 
+        "sigma": 24490.234530667723
+    }, 
+    "ExitCircuitStreamCount": {
+        "bins": [
+            [
+                1.0, 
+                3.0, 
+                2910507
+            ], 
+            [
+                3.0, 
+                7.0, 
+                1223242
+            ], 
+            [
+                7.0, 
+                15.0, 
+                572831
+            ], 
+            [
+                15.0, 
+                31.0, 
+                292631
+            ], 
+            [
+                31.0, 
+                63.0, 
+                202952
+            ], 
+            [
+                63.0, 
+                Infinity, 
+                136170
+            ]
+        ], 
+        "epsilon": 0.04380399690084745, 
+        "estimated_value": 4368531.0, 
+        "expected_noise_ratio": 0.00970997584689092, 
+        "sensitivity": 288.0, 
+        "sigma": 24490.234530667723
+    }, 
+    "ExitInactiveCircuitCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                5090784
+            ]
+        ], 
+        "epsilon": 0.020491279670210884, 
+        "estimated_value": 4665362.0, 
+        "expected_noise_ratio": 0.00970997584689092, 
+        "sensitivity": 144.0, 
+        "sigma": 26154.28608620725
+    }, 
+    "ExitStreamByteCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                5955772630781
+            ]
+        ], 
+        "epsilon": 0.0012108205133570284, 
+        "estimated_value": 5610606059.101, 
+        "expected_noise_ratio": 0.00970997584689092, 
+        "sensitivity": 10240.0, 
+        "sigma": 31453378.320210814
+    }, 
+    "ExitStreamByteHistogram": {
+        "bins": [
+            [
+                1.0, 
+                2048.0, 
+                21435395
+            ], 
+            [
+                2048.0, 
+                16384.0, 
+                19364261
+            ], 
+            [
+                16384.0, 
+                65536.0, 
+                6090186
+            ], 
+            [
+                65536.0, 
+                131072.0, 
+                2495408
+            ], 
+            [
+                131072.0, 
+                Infinity, 
+                4049872
+            ]
+        ], 
+        "epsilon": 0.2537123331301067, 
+        "estimated_value": 47493160.0, 
+        "expected_noise_ratio": 0.00970997584689092, 
+        "sensitivity": 18000.0, 
+        "sigma": 266249.3700977576
+    }, 
+    "ExitStreamCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                53244768
+            ]
+        ], 
+        "epsilon": 0.1262848486465804, 
+        "estimated_value": 47493160.0, 
+        "expected_noise_ratio": 0.00970997584689092, 
+        "sensitivity": 9000.0, 
+        "sigma": 266249.3700977576
+    }, 
+    "ExitStreamInboundByteCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                5683265148156
+            ]
+        ], 
+        "epsilon": 0.001275610744731719, 
+        "estimated_value": 5325647221.316, 
+        "expected_noise_ratio": 0.00970997584689092, 
+        "sensitivity": 10240.0, 
+        "sigma": 29855882.784768544
+    }, 
+    "ExitStreamInboundByteHistogram": {
+        "bins": [
+            [
+                1.0, 
+                2048.0, 
+                22437665
+            ], 
+            [
+                2048.0, 
+                16384.0, 
+                16320192
+            ], 
+            [
+                16384.0, 
+                65536.0, 
+                5689645
+            ], 
+            [
+                65536.0, 
+                131072.0, 
+                1963762
+            ], 
+            [
+                131072.0, 
+                Infinity, 
+                3319867
+            ]
+        ], 
+        "epsilon": 0.2537123331301067, 
+        "estimated_value": 47493160.0, 
+        "expected_noise_ratio": 0.00970997584689092, 
+        "sensitivity": 18000.0, 
+        "sigma": 266249.3700977576
+    }, 
+    "ExitStreamOutboundByteCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                272444290364
+            ]
+        ], 
+        "epsilon": 0.023854229498484585, 
+        "estimated_value": 285022517.15, 
+        "expected_noise_ratio": 0.00970997584689092, 
+        "sensitivity": 10240.0, 
+        "sigma": 1597852.525602946
+    }, 
+    "ExitStreamOutboundByteHistogram": {
+        "bins": [
+            [
+                1.0, 
+                512.0, 
+                25036020
+            ], 
+            [
+                512.0, 
+                1024.0, 
+                16041464
+            ], 
+            [
+                1024.0, 
+                2048.0, 
+                7378951
+            ], 
+            [
+                2048.0, 
+                4096.0, 
+                2076047
+            ], 
+            [
+                4096.0, 
+                Infinity, 
+                1576070
+            ]
+        ], 
+        "epsilon": 0.2537123331301067, 
+        "estimated_value": 47493160.0, 
+        "expected_noise_ratio": 0.00970997584689092, 
+        "sensitivity": 18000.0, 
+        "sigma": 266249.3700977576
+    }, 
+    "ZeroCount": {
+        "bins": [
+            [
+                -Infinity, 
+                Infinity, 
+                0
+            ]
+        ], 
+        "epsilon": 0.0, 
+        "estimated_value": 0.0, 
+        "expected_noise_ratio": 0.0, 
+        "sensitivity": 0.0, 
+        "sigma": 0.0
+    }
+}

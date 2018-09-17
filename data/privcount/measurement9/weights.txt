@@ -1,0 +1,14 @@
+running weights privcount version 3.0.0 (protocol PRIVCOUNT-100, git-4fc3a9fa9310449c)
+using consensuses 'consensuses' and fingerprints '['B6718125C43ECA2E5011B3C681BB6638617A9686', '0DA9BD201766EDB19F57F49F1A013A8A5432C008', '12B80ABF019354A9D25EE8BE85EB3C0AD8F7DFC1', '4B1E3276137AD12DCCEBE354EA11C1E47F804F67', '09FA8B4F665AD65D2C2A49870F1AA3BA8811E449', '335746A6DEB684FABDF3FC5835C3898F05C5A5A8']'
+0.000000000000000 : guard use mean
+0.000000000000000 : middle use mean
+0.013255656694843 : exit use mean
+0.008367359414088 : hsdir2 spread-weighted service onion address mean (6 stores per onion address, 1/24 overlap)
+0.001338777506254 : hsdir2 spread-weighted client onion address mean (1 fetch per onion address)
+0.001864162499079 : hsdir3 relay fraction mean
+0.014913299992635 : hsdir3 approximate service descriptor id mean (4 stores per descriptor id, per onion address, per current/previous SRV)
+0.000932081249540 : hsdir3 approximate client descriptor id mean (0.5 fetches per descriptor id, per onion address)
+0.000000000000000 : intro2,3 service establish mean (default 3 intro points per onion address, max 10)
+0.000000000000000 : intro2,3 client introduce mean (1 introduce per onion address)
+0.000000000000000 : rend2 use mean
+0.000000000000000 : rend3 use mean
