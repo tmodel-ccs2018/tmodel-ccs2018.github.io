@@ -61,7 +61,7 @@ The version we used for our experiments:
 
 See [data/privcount](https://github.com/tmodel-ccs2018/tmodel-ccs2018.github.io/tree/master/data/privcount) in the repo. Each measurement number corresponds to the measurement number listed in Table 2 in [the paper](https://www.robgjansen.com/publications/tmodel-ccs2018.pdf). Measurements 1-7 are ground truth measurements, measurement 8 includes 14 iterations for learning the packet model, and measurement 9 includes 14 iterations for learning the stream model.
 
-The best packet model was from [measurement 8-8](data/privcount/measurement8/8/privcount.traffic.model.1522104321-1522190721.json), and the best stream model was from [measurement 9-8](data/privcount/measurement9/8/privcount.traffic.model.1524067191-1524153891.json).
+The best packet model was from [measurement 8-9](data/privcount/measurement8/9/privcount.traffic.model.1522196794-1522283493.json), and the best stream model was from [measurement 9-9](data/privcount/measurement9/9/privcount.traffic.model.1524154791-1524241191.json).
 
 <!--
 | Measurement| Data files |
