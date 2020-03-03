@@ -103,6 +103,10 @@ Section 6.1.1 in [the paper](https://www.robgjansen.com/publications/tmodel-ccs2
   + [Network graph file for use with Shadow v1.13.0](data/shadow/network/atlas.201801.shadow113.graphml.xml.xz) (the version we used in our experiments)
   + [Network graph file for use with Shadow v1.12.1](data/shadow/network/atlas.201801.shadow112.graphml.xml.xz) (older stable version of Shadow)
 
+Later research has used a version of our Internet model that does not contain packet loss on the links between the core routers in the topology. We host this version of our model for posterity.
+
+  + [Network graph file for use with Shadow v1.13.0](data/shadow/network/atlas-lossless.201801.shadow113.graphml.xml.xz) (lossless links between core routers)
+
 ##### Shadow Host Configuration
 
 Our Shadow experiments used the client behavior models that we discuss in the paper. You can incorporate these models into your own Shadow experiments.
