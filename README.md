@@ -5,7 +5,7 @@ This is the landing page for the following research publication:
 
 **Privacy-Preserving Dynamic Learning of Tor Network Traffic**  
 _Proceedings of the 25th ACM Conference on Computer and Communication Security (CCS 2018)_  
-by [Rob Jansen](https://www.robgjansen.com), Matthew Traudt, and [Nicholas Hopper](https://www-users.cs.umn.edu/~hoppernj)  
+by [Rob Jansen](https://www.robgjansen.com), [Matthew Traudt](https://matt.traudt.xyz), and [Nicholas Hopper](https://www-users.cs.umn.edu/~hoppernj)
 \[[Full paper available here](https://www.robgjansen.com/publications/tmodel-ccs2018.pdf)\]
 
 If you reference this paper or use any of the data or models provided on this page, please cite the paper. Here is a bibtex entry for latex users:
