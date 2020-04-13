@@ -107,6 +107,10 @@ Later research has used a version of our Internet model that does not contain pa
 
   + [Network graph file for use with Shadow v1.13.0](data/shadow/network/atlas-lossless.201801.shadow113.graphml.xml.xz) (lossless links between core routers)
 
+We've compiled the scripts necessary to gather the input data and compile it
+into a topology file [here](https://github.com/shadow/atlas). See
+[here](atlas-data.md) for links to the input data we used.
+
 ##### Shadow Host Configuration
 
 Our Shadow experiments used the client behavior models that we discuss in the paper. You can incorporate these models into your own Shadow experiments.
