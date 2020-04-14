@@ -52,3 +52,15 @@ And likewise with the following two links for *GeoLite2 City: CSV Format*.
     https://download.maxmind.com/app/geoip_download?edition_id=GeoLite2-City-CSV&license_key=YOUR_LICENSE_KEY&suffix=zip
     # SHA256 URL
     https://download.maxmind.com/app/geoip_download?edition_id=GeoLite2-City-CSV&license_key=YOUR_LICENSE_KEY&suffix=zip.sha256
+
+# Speed test data
+
+Verify that <https://www.speedtest.net/reports/> still lists reports for a
+variety of countries and clicking on the links for countries leads to pages
+with per-city data in tables.
+
+Verify that <https://www.speedtest.net/global-index> still lists averages for a
+wide variety of countries.
+
+The [code repo][atlas-repo] walks you through how to download and parse this
+data.
