@@ -10,6 +10,13 @@ part www.speedtest.net for the bandwidth part too.
 
 # GeoIP data
 
+[2018-ripepairs]: data/shadow/network/latency/2018-all-pairs.csv.xz
+
+The final output of our RIPE measurements and data parsing process from 2018 is
+[here][2018-ripepairs]. MaxMind does not allow us to provide the databases that
+we used. What follows is information on how to download the (current) databases
+for yourself.
+
 Create a MaxMind account [here](https://www.maxmind.com/en/geolite2/signup).
 
 After logging in, visit your *Account Summary* page. You will have to edit
@@ -64,3 +71,20 @@ wide variety of countries.
 
 The [code repo][atlas-repo] walks you through how to download and parse this
 data.
+
+We provide here archives of these portions of www.speedtest.net as they
+appeared in [2018][2018-speedtest] and [2020][2020-speedtest]. Here are the
+final JSON output files of the parsing process in [2018][2018-speeddata] and
+[2020][2020-speeddata].
+
+[2018-speedtest]: data/shadow/network/bandwidth/2018-www.speedtest.net.txz
+[2020-speedtest]: data/shadow/network/bandwidth/2020.04-www.speedtest.net.txz
+
+[2018-speeddata]: data/shadow/network/bandwidth/2018-speed-data.json.xz
+[2020-speeddata]: data/shadow/network/bandwidth/2020.04-speed-data.json.xz
+
+# Caveats
+
+Do not expect the data from 2018 to work with scripts in the [code
+repo][atlas-repo] without some sort of modification: the scripts were
+organized, documented, and updated in 2020 and the 2018 data is provided as-is.
