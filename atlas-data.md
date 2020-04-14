@@ -4,9 +4,11 @@ The code to generate a shadow network topology is [here][atlas-repo] and has
 its own READMEs. What follows is some information regarding the input data
 specifically.
 
-You will need a MaxMind account to download their GeoIP databases for both
-the latency and bandwidth parts of topology generation. You will need to scrape
-part www.speedtest.net for the bandwidth part too.
+If you want to reproduce our results with fresh data, you will need
+
+1. a MaxMind account to download their GeoIP databases for both the latency and
+   bandwidth parts of topology generation.
+1. to scrape part www.speedtest.net for the bandwidth part.
 
 # GeoIP data
 
@@ -19,11 +21,13 @@ for yourself.
 
 Create a MaxMind account [here](https://www.maxmind.com/en/geolite2/signup).
 
-After logging in, visit your *Account Summary* page. You will have to edit
-these links that have a place-holder account number `222222` in them.
+After logging in, visit your *Account Summary* page.
 
 You can now download GeoLite2 databases in two ways: in the browser manually,
 or via a URL with your license key for scripting.
+
+In the links that follow, you will have to edit the ones with place-holder
+account number `222222` in them.
 
 ## Manual with browser
 
@@ -38,7 +42,7 @@ download a `.zip`.
 
 ## License key for scripting
 
-Visit the My License Key page
+Visit the *My License Key* page
 <https://www.maxmind.com/en/accounts/222222/license-key>. Generate a new
 license key. No it won't be used for GeoIP Update. The next page will show you
 your account number and license key. Take note of it. It will look something
@@ -87,4 +91,12 @@ final JSON output files of the parsing process in [2018][2018-speeddata] and
 
 Do not expect the data from 2018 to work with scripts in the [code
 repo][atlas-repo] without some sort of modification: the scripts were
-organized, documented, and updated in 2020 and the 2018 data is provided as-is.
+organized, documented, and updated in 2020, but the 2018 data is merely
+provided as-is.
+
+We expect the main pain points with processing 2018 data today to be:
+
+- revision of scripts in 2020 added city names to latency data output, but 2018
+  didn't include those.
+- 2018 bandwidth data parsing was even more of a manual process than in 2020,
+  so there isn't really an intermediate representation of the data.
