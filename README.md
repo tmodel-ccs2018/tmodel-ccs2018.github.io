@@ -88,7 +88,7 @@ Changes have been merged upstream!
 
   + git repo: `git@github.com:shadow/shadow.git`
   + at branch: `master`  
-    (our experiments were run at commit: `322d8e047ae9adbc7ddbdfdae0c6aec073eb2374`)
+    (our experiments were run at commit: `443fdc234b879080529390d2306209742f5b3434`)
   + git web: [https://github.com/shadow/shadow](https://github.com/shadow/shadow)
 
 You can run Shadow with your own version of Tor to help with your own research.
