@@ -86,10 +86,18 @@ Simulation was done using Shadow, a full network simulation tool that directly e
 
 Changes have been merged upstream!
 
+Shadow:
+
   + git repo: `git@github.com:shadow/shadow.git`
-  + at branch: `master`  
-    (our experiments were run at commit: [`443fdc234b879080529390d2306209742f5b3434`](https://github.com/shadow/shadow/commit/443fdc234b879080529390d2306209742f5b3434))
   + git web: [https://github.com/shadow/shadow](https://github.com/shadow/shadow)
+  + our experiments were run at commit: [`443fdc234b879080529390d2306209742f5b3434`](https://github.com/shadow/shadow/commit/443fdc234b879080529390d2306209742f5b3434)
+
+Shadow-Plugin-Tor:
+
+  + git repo: `git@github.com:shadow/shadow-plugin-tor.git`
+  + git web: [https://github.com/shadow/shadow-plugin-tor](https://github.com/shadow/shadow-plugin-tor)
+  + our experiments were run at commit: [`b5024bb366800198e09359dcbb768638d37c2aa7`](https://github.com/shadow/shadow-plugin-tor/commit/b5024bb366800198e09359dcbb768638d37c2aa7)
+
 
 You can run Shadow with your own version of Tor to help with your own research.
 
