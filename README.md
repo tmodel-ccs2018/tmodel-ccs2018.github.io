@@ -108,13 +108,13 @@ If you want to export PrivCount events in order to count the number of streams, 
 
 Section 6.1.1 in [the paper](https://www.robgjansen.com/publications/tmodel-ccs2018.pdf) describes our approach to creating an Internet model for using as Shadow's network configuration. That methodology yielded a network graph graphml file that we used in our Shadow simulations. We also back-ported the network graph for a previous stable version of Shadow. These files should be decompressed and copied to `~/.shadow/share`.
 
-  + [Network graph file for use with Shadow v2.x.x](data/shadow/network/atlas_v201801.shadow_v2.gml.xz) (more recent versions of Shadow)
   + [Network graph file for use with Shadow v1.13.0](data/shadow/network/atlas.201801.shadow113.graphml.xml.xz) (the version we used in our experiments)
   + [Network graph file for use with Shadow v1.12.1](data/shadow/network/atlas.201801.shadow112.graphml.xml.xz) (older stable version of Shadow)
 
-Later research has used a version of our Internet model that does not contain packet loss on the links between the core routers in the topology. We host this version of our model for posterity.
+Later research has used a version of our Internet model that does not contain packet loss on the links between the core routers in the topology. We host these versions of our model for posterity.
 
   + [Network graph file for use with Shadow v1.13.0](data/shadow/network/atlas-lossless.201801.shadow113.graphml.xml.xz) (lossless links between core routers)
+  + [Network graph file for use with Shadow v2.x.x](data/shadow/network/atlas_v201801.shadow_v2.gml.xz) (more recent versions of Shadow)
 
 We've compiled the scripts necessary to gather the input data and compile it
 into a topology file [here](https://github.com/shadow/atlas). See
