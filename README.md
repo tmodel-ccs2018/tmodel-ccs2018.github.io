@@ -108,6 +108,7 @@ If you want to export PrivCount events in order to count the number of streams, 
 
 Section 6.1.1 in [the paper](https://www.robgjansen.com/publications/tmodel-ccs2018.pdf) describes our approach to creating an Internet model for using as Shadow's network configuration. That methodology yielded a network graph graphml file that we used in our Shadow simulations. We also back-ported the network graph for a previous stable version of Shadow. These files should be decompressed and copied to `~/.shadow/share`.
 
+  + [Network graph file for use with Shadow v2.x.x](data/shadow/network/atlas_v201801.shadow_v2.gml.xz) (more recent versions of Shadow)
   + [Network graph file for use with Shadow v1.13.0](data/shadow/network/atlas.201801.shadow113.graphml.xml.xz) (the version we used in our experiments)
   + [Network graph file for use with Shadow v1.12.1](data/shadow/network/atlas.201801.shadow112.graphml.xml.xz) (older stable version of Shadow)
 
